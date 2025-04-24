@@ -1,3 +1,3 @@
-def mul(a,b):
-    c=(a*b)
+def div(a,b):
+    c=(a/b)
     return c
